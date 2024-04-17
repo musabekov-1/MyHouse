@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyHouse</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="online">в сети</string>
+    <string name="intercom">домофон</string>
+    <string name="exit">выход</string>
+    <string name="entrance2">подъезд 2</string>
+    <string name="entrance">подъезд 1</string>
+    <string name="camera1">камера 1</string>
+</resources>
